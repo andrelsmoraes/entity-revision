@@ -14,5 +14,5 @@ The goal of this library was to create a simple way to create revisions of entit
 //TODO
 ```
 
-# Create by
+# Created by
 [andrelsmoraes](https://github.com/andrelsmoraes)
